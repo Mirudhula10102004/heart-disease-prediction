@@ -1,0 +1,9 @@
+# Ignore Google API credentials
+credentials.json
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment variables file (if any)
+.env
